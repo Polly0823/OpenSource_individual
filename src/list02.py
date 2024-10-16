@@ -7,5 +7,5 @@ print(list_a)
 print()
 
 print("# 리스트 중간에 요소 추가하기")
-list_a.insert(0, 10)
+list_a.insert(0, 0)
 print(list_a)
